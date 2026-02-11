@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "kanzg-claude-plugins",
+  "description": "KanZG's plugin collection for Claude Code",
+  "owner": {
+    "name": "KanZG"
+  },
+  "plugins": [
+    {
+      "name": "sprint-loop",
+      "source": {
+        "source": "github",
+        "repo": "KanZG/loop-plugin"
+      },
+      "description": "Sprint-based autonomous development loop for Claude Code. Plans sprints with DoD, executes via AgentTeam, and auto-transitions on approval.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": ["sprint", "autonomous", "agent-team", "orchestration"]
+    }
+  ]
+}

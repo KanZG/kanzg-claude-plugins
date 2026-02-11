@@ -10,10 +10,10 @@
       "name": "sprint-loop",
       "source": {
         "source": "url",
-        "url": "https://github.com/KanZG/loop-plugin.git"
+        "url": "https://github.com/KanZG/sprint-loop.git"
       },
       "description": "Sprint-based autonomous development loop for Claude Code. Plans sprints with DoD, executes via AgentTeam, and auto-transitions on approval.",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "category": "productivity",
       "tags": ["sprint", "autonomous", "agent-team", "orchestration"]
     }

@@ -9,8 +9,8 @@
     {
       "name": "sprint-loop",
       "source": {
-        "source": "github",
-        "repo": "KanZG/loop-plugin"
+        "source": "url",
+        "url": "https://github.com/KanZG/loop-plugin.git"
       },
       "description": "Sprint-based autonomous development loop for Claude Code. Plans sprints with DoD, executes via AgentTeam, and auto-transitions on approval.",
       "version": "0.1.0",

@@ -13,7 +13,6 @@
         "url": "https://github.com/KanZG/sprint-loop.git"
       },
       "description": "Sprint-based autonomous development loop for Claude Code. Plans sprints with DoD, executes via AgentTeam, and auto-transitions on approval.",
-      "version": "0.1.1",
       "category": "productivity",
       "tags": ["sprint", "autonomous", "agent-team", "orchestration"]
     }
